@@ -239,6 +239,7 @@ xml文件一般长这样
 
 相信这么聪明的你一下子就知道该怎么修改了吧。
 
+---
 
 #### 🌱 修改图标包其他信息
 
@@ -319,6 +320,6 @@ versionName "" 命名随意，一般都是1.0，1.1之类的。
 
 ### 😜 软件截图
 
-<img src="https://raw.githubusercontent.com/hujincan/CloverIconPack/master/screenshot/Screenshot_1.png"/>
+<img src="https://github.com/hujincan/CloverIconPack/blob/master/screenshot/Screenshot_1.png?raw=true"/>
 
-<img src="https://raw.githubusercontent.com/hujincan/CloverIconPack/master/screenshot/Screenshot_1.png"/>
+<img src="https://github.com/hujincan/CloverIconPack/blob/master/screenshot/Screenshot_1.png?raw=true"/>
