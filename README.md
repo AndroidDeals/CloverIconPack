@@ -306,7 +306,7 @@ versionName "" 命名随意，一般都是1.0，1.1之类的。
 </layer-list>
 ```
 
-然后你可以将一个自己制作额启动图标放到 [/app/src/main/res/drawable](https://github.com/hujincan/CloverIconPack/tree/master/app/src/main/res/drawable) 其他图片存储位置。将其命名为`start_window_logo`，后缀名可以是png或者jpg
+然后你可以将一个自己制作额启动图标放到 [/app/src/main/res/drawable-nodpi](https://github.com/hujincan/CloverIconPack/tree/master/app/src/main/res/drawable-nodpi) 其他图片存储位置。将其命名为`start_window_logo`，后缀名可以是png或者jpg
 
 ###### 🥑 APP主题颜色
 
