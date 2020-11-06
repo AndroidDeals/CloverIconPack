@@ -63,7 +63,7 @@ dependencies {
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutines_android_version"
 
     // IconCore
-    implementation 'com.lollipop.smartIconPack:IconCore:1.0'
+    implementation 'com.lollipop.smartIconPack:IconCore:1.0.1'
 
     testImplementation 'junit:junit:4.13.1'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'

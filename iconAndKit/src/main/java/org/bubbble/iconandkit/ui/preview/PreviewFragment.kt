@@ -254,6 +254,7 @@ class PreviewFragment : Fragment() {
         valueAnimator.addUpdateListener {
             progress.progress = it.animatedValue as Int
         }
+        valueAnimator.startDelay = 200
         valueAnimator.start()
     }
 

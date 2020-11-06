@@ -1,5 +1,7 @@
 ### ☘ 三叶草图标包模板
 
+[app下载](https://www.coolapk.com/apk/278358)
+
 本图标包模板基于Lollipop的 [SmartIconPack](https://github.com/Mr-XiaoLiang/SmartIconPack) IconCore。有关如何使用IconCore请访问 [SmartIconPack](https://github.com/Mr-XiaoLiang/SmartIconPack) 。
 
 ### 💡 准备：
